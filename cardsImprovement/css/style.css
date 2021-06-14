@@ -1,0 +1,16 @@
+.container{
+  padding-top:70px;
+  max-width:800px;
+}
+
+.input-qty {
+  width: 60px;
+  float: right
+};
+
+.table-cart > tr > td {
+  vertical-align: middle !important;
+};
+
+
+
